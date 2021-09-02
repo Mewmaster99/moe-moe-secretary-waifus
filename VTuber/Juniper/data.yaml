@@ -6,8 +6,8 @@ position: 0
 skinIndex: 0
 
 dialogs:
-  - audio: audio/could_you_rip_pls.wav
-    dialog: Could you please RIP?
+  - audio: audio/moth_thoughts.mp3
+    dialog: Pathetic
     event: onClick
     language: en
   - audio: null
